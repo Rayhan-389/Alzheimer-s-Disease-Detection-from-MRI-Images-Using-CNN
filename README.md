@@ -1,4 +1,5 @@
-# 🧠 Alzheimer's Disease Detection from MRI Images using CNN
+# 🧠 ALZHEIMER’S DISEASE DETECTION FROM MRI IMAGE USING DEEP 
+LEARNING APPROACH
 
 ## 📌 Project Overview
 This project focuses on the early detection of **Alzheimer’s Disease (AD)** using **MRI brain images** and **Deep Learning (CNN)**. The goal is to develop an automated system that can accurately classify different stages of Alzheimer’s disease.
